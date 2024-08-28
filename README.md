@@ -23,7 +23,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos em que estou 
 
 ## Projetos Destacados 🚀
 
-- [**Arc Park**](https://github.com/LucasAltoe/ArcParkSistema): O projeto consiste em um sistema que faz o gerenciamento de estacionamentos de forma prática e eficiente.
+- [**Arc Park**](https://github.com/LucasAltoe/SystemArcPark): O projeto consiste em um sistema que faz o gerenciamento de estacionamentos de forma prática e eficiente.
 - [**AudiFlow Web**](https://github.com/LucasAltoe/Audiflow_Web): Esse projeto instala músicas a partir de links do YouTube e as reproduz, sendo assim funciona como um instalador e reprodutor de músicas.
 
 ## Me encontre em:
