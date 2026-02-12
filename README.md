@@ -1,37 +1,61 @@
-# Olá, sou Lucas Altoé 👋
+# Olá, eu sou o Lucas Altoé 👋
 
-![GIF de Programação](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![GIF de Programação](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
 
+Bem-vindo ao meu perfil no GitHub!  
+Sou estudante de Sistemas de Informação e atuo com **Inteligência Artificial e Machine Learning**.
 
+---
 
-Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos em que estou trabalhando e contribuindo. Gosto de aprender sobre programação, resolver problemas e criar soluções úteis.
+## 🤖 Sobre mim
 
-## Sobre mim
+- 📜 Técnico em Informática — IFES (Campus Cachoeiro de Itapemirim)
+- 🎓 Bacharelado em Sistemas de Informação — IFES (Campus Cachoeiro de Itapemirim)
+- 📫 Email: [lucas.galc@gmail.com](mailto:lucas.galc@gmail.com)
+- 💼 LinkedIn: [Lucas Altoé](https://www.linkedin.com/in/lucas-alto%C3%A9-aa9648215/)
 
-- 🌱 Atualmente estou cursando bacharelado em Sistemas de Informação no Instituto Federal do Espírito Santo, Campus Ccahoeiro de Itapemirim.
-- 🚀 Interessado em desenvolvimento web e automação de processos.
-- 📫 Como me contatar: [lucas.galc@gmail.com](mailto:lucas.galc@gmail.com)
-- 💼 Veja meu LinkedIn: [Lucas Altoé](https://www.linkedin.com/in/lucas-alto%C3%A9-aa9648215/)
+---
 
-## Estatísticas do GitHub 📊
+## 🛠️ Tecnologias & Ferramentas
 
-![Estatísticas do GitHub de LucasAltoe](https://github-readme-stats.vercel.app/api?username=LucasAltoe&show_icons=true&theme=radical)
+### 📚 Dados & IA
+- Python  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- TensorFlow / PyTorch  
+- Jupyter Notebook  
 
-## Linguagens Mais Usadas
+### 💾 Bancos de Dados
+- MySQL  
+- MongoDB  
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAltoe&layout=compact&theme=radical)
+### ⚙️ Outros
+- Git & GitHub  
+- Docker  
 
-## Projetos Destacados 🚀
+---
 
-- [**Arc Park**](https://github.com/LucasAltoe/SystemArcPark): O projeto consiste em um sistema que faz o gerenciamento de estacionamentos de forma prática e eficiente.
-- [**AudiFlow Web**](https://github.com/LucasAltoe/Audiflow_Web): Esse projeto instala músicas a partir de links do YouTube e as reproduz, sendo assim funciona como um instalador e reprodutor de músicas.
+## 📊 Estatísticas do GitHub
 
-## Me encontre em:
+[![Estatísticas de Lucas](https://github-readme-streak-stats.herokuapp.com/?user=LucasAltoe&theme=radical)](https://git.io/streak-stats)
+
+## 📈 Linguagens mais usadas
+![Linguagens](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasAltoe&layout=compact&theme=radical)
+
+---
+
+## 🚀 Projetos em IA & Dados
+
+*(novos projetos em desenvolvimento 🚧)*
+
+---
+
+## 🌐 Me encontre por aqui
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/lucas-alto%C3%A9-aa9648215/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/lucas_altoe_/?next=%2F)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/lucas_altoe_/)
 
+---
 
-
-
-
+⭐ Se algum projeto te ajudar ou inspirar, deixe uma estrela!
